@@ -1,4 +1,4 @@
-# Learning with Policy Gradients in Full Reinforcement Learning using OpenAI Gym
+# Learning with Policy Gradients in Full Reinforcement Learning environment provided by OpenAI Gym
 
 Overview
 ==========
